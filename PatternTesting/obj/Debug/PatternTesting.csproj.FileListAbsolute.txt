@@ -1,0 +1,11 @@
+C:\IDWARE\Interview Preperation\CSharpLEarning\PatternTesting\bin\Debug\PatternTesting.exe.config
+C:\IDWARE\Interview Preperation\CSharpLEarning\PatternTesting\bin\Debug\PatternTesting.exe
+C:\IDWARE\Interview Preperation\CSharpLEarning\PatternTesting\bin\Debug\PatternTesting.pdb
+C:\IDWARE\Interview Preperation\CSharpLEarning\PatternTesting\bin\Debug\DesignPatterns.dll
+C:\IDWARE\Interview Preperation\CSharpLEarning\PatternTesting\bin\Debug\DesignPatterns.pdb
+C:\IDWARE\Interview Preperation\CSharpLEarning\PatternTesting\obj\Debug\PatternTesting.csproj.AssemblyReference.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\PatternTesting\obj\Debug\PatternTesting.csproj.SuggestedBindingRedirects.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\PatternTesting\obj\Debug\PatternTesting.csproj.CoreCompileInputs.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\PatternTesting\obj\Debug\PatternTesting.csproj.CopyComplete
+C:\IDWARE\Interview Preperation\CSharpLEarning\PatternTesting\obj\Debug\PatternTesting.exe
+C:\IDWARE\Interview Preperation\CSharpLEarning\PatternTesting\obj\Debug\PatternTesting.pdb

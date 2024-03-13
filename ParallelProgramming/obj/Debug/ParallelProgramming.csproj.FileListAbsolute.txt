@@ -1,0 +1,8 @@
+C:\IDWARE\Interview Preperation\CSharpLEarning\ParallelProgramming\bin\Debug\ParallelProgramming.exe.config
+C:\IDWARE\Interview Preperation\CSharpLEarning\ParallelProgramming\bin\Debug\ParallelProgramming.exe
+C:\IDWARE\Interview Preperation\CSharpLEarning\ParallelProgramming\bin\Debug\ParallelProgramming.pdb
+C:\IDWARE\Interview Preperation\CSharpLEarning\ParallelProgramming\obj\Debug\ParallelProgramming.csproj.AssemblyReference.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\ParallelProgramming\obj\Debug\ParallelProgramming.csproj.SuggestedBindingRedirects.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\ParallelProgramming\obj\Debug\ParallelProgramming.csproj.CoreCompileInputs.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\ParallelProgramming\obj\Debug\ParallelProgramming.exe
+C:\IDWARE\Interview Preperation\CSharpLEarning\ParallelProgramming\obj\Debug\ParallelProgramming.pdb
