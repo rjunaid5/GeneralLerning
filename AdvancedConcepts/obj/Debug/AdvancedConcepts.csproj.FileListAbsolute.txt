@@ -1,0 +1,8 @@
+C:\IDWARE\Interview Preperation\CSharpLEarning\AdvancedConcepts\bin\Debug\AdvancedConcepts.exe.config
+C:\IDWARE\Interview Preperation\CSharpLEarning\AdvancedConcepts\bin\Debug\AdvancedConcepts.exe
+C:\IDWARE\Interview Preperation\CSharpLEarning\AdvancedConcepts\bin\Debug\AdvancedConcepts.pdb
+C:\IDWARE\Interview Preperation\CSharpLEarning\AdvancedConcepts\obj\Debug\AdvancedConcepts.csproj.AssemblyReference.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\AdvancedConcepts\obj\Debug\AdvancedConcepts.csproj.SuggestedBindingRedirects.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\AdvancedConcepts\obj\Debug\AdvancedConcepts.csproj.CoreCompileInputs.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\AdvancedConcepts\obj\Debug\AdvancedConcepts.exe
+C:\IDWARE\Interview Preperation\CSharpLEarning\AdvancedConcepts\obj\Debug\AdvancedConcepts.pdb

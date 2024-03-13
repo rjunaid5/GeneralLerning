@@ -1,0 +1,7 @@
+C:\IDWARE\Interview Preperation\CSharpLEarning\Architecture\bin\Debug\Architecture.pdb
+C:\IDWARE\Interview Preperation\CSharpLEarning\Architecture\obj\Debug\Architecture.csproj.AssemblyReference.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\Architecture\obj\Debug\Architecture.csproj.CoreCompileInputs.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\Architecture\obj\Debug\Architecture.pdb
+C:\IDWARE\Interview Preperation\CSharpLEarning\Architecture\bin\Debug\Architecture.exe
+C:\IDWARE\Interview Preperation\CSharpLEarning\Architecture\obj\Debug\Architecture.csproj.SuggestedBindingRedirects.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\Architecture\obj\Debug\Architecture.exe
