@@ -1,0 +1,8 @@
+C:\IDWARE\Interview Preperation\CSharpLEarning\LINQConcepts\bin\Debug\LINQConcepts.exe.config
+C:\IDWARE\Interview Preperation\CSharpLEarning\LINQConcepts\bin\Debug\LINQConcepts.exe
+C:\IDWARE\Interview Preperation\CSharpLEarning\LINQConcepts\bin\Debug\LINQConcepts.pdb
+C:\IDWARE\Interview Preperation\CSharpLEarning\LINQConcepts\obj\Debug\LINQConcepts.csproj.AssemblyReference.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\LINQConcepts\obj\Debug\LINQConcepts.csproj.SuggestedBindingRedirects.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\LINQConcepts\obj\Debug\LINQConcepts.csproj.CoreCompileInputs.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\LINQConcepts\obj\Debug\LINQConcepts.exe
+C:\IDWARE\Interview Preperation\CSharpLEarning\LINQConcepts\obj\Debug\LINQConcepts.pdb

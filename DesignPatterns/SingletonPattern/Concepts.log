@@ -1,0 +1,6 @@
+﻿Singleton Vs Static Class
+
+Why we need Singleton Class instead of static
+- Static is keyword and Singleton is design pattern
+- Singletone class can inherit Interfaces and implement other rulese of OOP
+- It can be passed as a reference

@@ -1,0 +1,6 @@
+C:\IDWARE\Interview Preperation\CSharpLEarning\DesignPatterns\bin\Debug\DesignPatterns.dll
+C:\IDWARE\Interview Preperation\CSharpLEarning\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\IDWARE\Interview Preperation\CSharpLEarning\DesignPatterns\obj\Debug\DesignPatterns.csproj.AssemblyReference.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\DesignPatterns\obj\Debug\DesignPatterns.dll
+C:\IDWARE\Interview Preperation\CSharpLEarning\DesignPatterns\obj\Debug\DesignPatterns.pdb

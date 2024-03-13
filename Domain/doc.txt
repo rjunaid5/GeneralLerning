@@ -1,0 +1,2 @@
+Domain layer contain Entities, Core Interfaces, Core Business Logic, and Enums
+IT cannot access outside layers
