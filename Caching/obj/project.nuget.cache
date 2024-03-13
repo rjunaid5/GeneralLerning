@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BCpzWwHGrLCq+vnoaCJXCim89CpaV2nbXQI8IiPleO1Y/OILsWazU3nx0KwXH7TFeDEIbjwOCCLeTRIOYDywrg==",
+  "success": true,
+  "projectFilePath": "C:\\IDWARE\\Interview Preperation\\CSharpLEarning\\Caching\\Caching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rana.junaid\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\rana.junaid\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\rana.junaid\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\rana.junaid\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\rana.junaid\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\rana.junaid\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\rana.junaid\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

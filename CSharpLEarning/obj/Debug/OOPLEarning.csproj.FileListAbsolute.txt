@@ -1,0 +1,8 @@
+C:\IDWARE\Interview Preperation\CSharpLEarning\CSharpLEarning\bin\Debug\CSharpLEarning.exe.config
+C:\IDWARE\Interview Preperation\CSharpLEarning\CSharpLEarning\bin\Debug\CSharpLEarning.exe
+C:\IDWARE\Interview Preperation\CSharpLEarning\CSharpLEarning\bin\Debug\CSharpLEarning.pdb
+C:\IDWARE\Interview Preperation\CSharpLEarning\CSharpLEarning\obj\Debug\OOPLEarning.csproj.AssemblyReference.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\CSharpLEarning\obj\Debug\OOPLEarning.csproj.SuggestedBindingRedirects.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\CSharpLEarning\obj\Debug\OOPLEarning.csproj.CoreCompileInputs.cache
+C:\IDWARE\Interview Preperation\CSharpLEarning\CSharpLEarning\obj\Debug\CSharpLEarning.exe
+C:\IDWARE\Interview Preperation\CSharpLEarning\CSharpLEarning\obj\Debug\CSharpLEarning.pdb
