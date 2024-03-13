@@ -1,0 +1,9 @@
+1- C# Concepts
+2- OOP
+3- LINQ Concepts(.NET) Lambda,Delegates , Events, Expression
+4- Parallel Processing
+5- Solid Principles
+6- Design Principles
+7- Clean Architecture
+8- SQL
+9- Microservices		
